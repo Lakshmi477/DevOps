@@ -1,0 +1,86 @@
+What is devOps?
+Agile method:
+1.requirements gathring
+2.planning
+3.designing
+4.developement
+5.testing
+deploy and maintain
+It is the repeat process like a chain.This is called SDLC
+Types of methods SDLC
+1.Waterfall
+2.Agile
+3.Spiral
+4.Big Bang
+5.ETC ETC
+WATERFALL METHOD:
+1.requirement gathering
+2.design
+3.implementation
+4.Testing
+5.Maintance
+The next phase is started only after the previous phase is completed 
+Cannot accommodate changung requirements
+DEV vs OPS:
+DEV is agilw it is all about agile/ regular changes and quick changes
+OPS is all about ITIL /stability for the product
+Automation:
+code build
+code testing
+software testing
+infra changes
+deployments
+Team memebers in devops:
+Build and release
+developers
+testers
+sys admins
+db admins
+DevOps Lifecycle:
+code:Developers commits the code
+Code build:Deployable Software:Artifact
+Code Test: unit integration test
+Code Analysis: Vulnerability, best practices
+Delivery:Deploy chnages to staging
+DB/Sec changes: Every other ops changes
+Software testing:QA/functional testing,load,performance tests
+Deploy to PROD
+Go to live:user traffic deliverted to new changes 
+User Approval: User Feedack
+keep Monitoring
+What is Continuous Integration?
+It is the automated process in devops which  generates software and its features quickly.
+Code hanges and code commits are happen continusly in github. it is a centarlized repositary next the code will move to the build server. On build server the code
+is BUILD,TEST,EVALUTED which genarated software/artifact. This artifcat is stored in a repo , Aritifact repo format is WAR/JAR and DLL/EXE/MSI ZIP/TAR from the repo it will be shift to server
+to the testing. After deploying this artifcat in the servers next the software tester will do software testing next it can be shift to the production
+The cycleic way
+1.code
+2.fetch
+3.build
+4.test
+5.notify
+6.feedback
+repeat mode
+The main goal of the CI is Identify bugs and issues 
+What is COntinuous Delivery?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
